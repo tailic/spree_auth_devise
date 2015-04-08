@@ -3,3 +3,4 @@ spec/dummy
 Gemfile.lock
 *.swp
 coverage
+.idea
